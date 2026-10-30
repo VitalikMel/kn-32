@@ -37,6 +37,7 @@
 
 ## Додаткові матеріали
 
+- [Звіт: основи Python](./2_python_basics/README.md)
 - [Звіт: перша програма на Python](./1_python_program/README.md)
 - [Практика Markdown](./init/README.md)
 - [Короткий довідник Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
