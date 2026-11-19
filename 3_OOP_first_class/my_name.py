@@ -52,7 +52,7 @@ class MyName:
 
 print("Розпочинаємо створювати об'єкти!")
 
-names = ("Bohdan", "Marta", None, "Vitaliy")
+names = ("Vitaliy", "Bohdan", "Marta", None)
 all_names = {name: MyName(name) for name in names}
 
 for name, me in all_names.items():

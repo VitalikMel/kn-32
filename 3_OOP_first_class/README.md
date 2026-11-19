@@ -39,11 +39,11 @@ class MyName:
 
 ```text
 Розпочинаємо створювати об'єкти!
-This is object attribute: Bohdan / 1
-This is My name is Bohdan / bohdan@itcollege.lviv.ua
+This is object attribute: Vitaliy / 1
+This is My name is Vitaliy / vitaliy@itcollege.lviv.ua
 This is static with custom text: You say: Welcome to Python OOP!
-Name length: 6
-Full name: User #1: Bohdan (bohdan@itcollege.lviv.ua)
+Name length: 7
+Full name: User #1: Vitaliy (vitaliy@itcollege.lviv.ua)
 
 We are done. We create 4 names in the list.
 MyName.total_names = 4
