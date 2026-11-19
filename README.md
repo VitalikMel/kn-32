@@ -37,6 +37,7 @@
 
 ## Додаткові матеріали
 
+- [Відпрацювання 17 листопада: конструктор і об'єкт](./constructor_practice/README.md)
 - [Звіт: перший клас ООП](./3_OOP_first_class/README.md)
 - [Звіт: основи Python](./2_python_basics/README.md)
 - [Звіт: перша програма на Python](./1_python_program/README.md)
